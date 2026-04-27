@@ -46,21 +46,21 @@
       },
       "Cut_out": {
         "label": "Cut-out",
+        "type": "pct_of_base",
+        "amount": 20
+      },
+      "Easel_10": {
+        "label": "Easel_10",
         "type": "flat_per_pc",
         "amount": 10
       },
-      "Easel_10\"x14\"": {
-        "label": "Easel_10\"x14\"",
-        "type": "flat_per_pc",
-        "amount": 10
-      },
-      "Easel_20\"x33\"": {
-        "label": "Easel_20\"x33\"",
+      "Easel_20": {
+        "label": "Easel_20",
         "type": "flat_per_pc",
         "amount": 15
       },
-      "Easel_71\"x100\"": {
-        "label": "Easel_71\"x100\"",
+      "Easel_71": {
+        "label": "Easel_71",
         "type": "flat_per_pc",
         "amount": 20
       }
