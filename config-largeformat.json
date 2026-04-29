@@ -328,10 +328,7 @@
       "allowed_addons": [
         "grommet",
         "h_stand",
-        "double_sided",
-        "Easel_10\"x14\"",
-        "Easel_20\"x33\"",
-        "Easel_71\"x100\""
+        "double_sided"
       ],
       "allowed_turnarounds": [
         "regular",
