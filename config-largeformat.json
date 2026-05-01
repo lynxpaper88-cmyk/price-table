@@ -682,6 +682,18 @@
             {
               "sqft": 16,
               "ratePerSqft": 3.75
+            },
+            {
+              "sqft": 32,
+              "ratePerSqft": 3.5
+            },
+            {
+              "sqft": 64,
+              "ratePerSqft": 3.25
+            },
+            {
+              "sqft": 128,
+              "ratePerSqft": 3
             }
           ]
         },
@@ -704,6 +716,18 @@
             {
               "sqft": 16,
               "ratePerSqft": 2.1
+            },
+            {
+              "sqft": 32,
+              "ratePerSqft": 1.95
+            },
+            {
+              "sqft": 64,
+              "ratePerSqft": 1.85
+            },
+            {
+              "sqft": 128,
+              "ratePerSqft": 1.75
             }
           ]
         }
